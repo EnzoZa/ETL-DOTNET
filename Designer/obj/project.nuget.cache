@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGgbr3Xp4unH4DRTf7HAcUDHcfLKYgaPY/JSQ0OO6uFA4VU4mZI+CWzWvfbqbro5N/Z8TiE+Ed/2zM+RQpOqzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Designer\\Designer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Etudiant\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Etudiant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
