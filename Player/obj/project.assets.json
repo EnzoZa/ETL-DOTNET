@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "DataContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DataContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataContract.dll": {}
+        }
+      },
       "Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataContract": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Service.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "DataContract/1.0.0": {
+      "type": "project",
+      "path": "../DataContract/DataContract.csproj",
+      "msbuildProject": "../DataContract/DataContract.csproj"
+    },
     "Service/1.0.0": {
       "type": "project",
       "path": "../Service/Service.csproj",

@@ -1,0 +1,12 @@
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.deps.json
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.dll
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.pdb
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.csproj.AssemblyReference.cache
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.AssemblyInfo.cs
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.dll
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\refint\DataContract.dll
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.pdb
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\ref\DataContract.dll

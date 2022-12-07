@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "DataContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DataContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataContract.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataContract/1.0.0": {
+      "type": "project",
+      "path": "../DataContract/DataContract.csproj",
+      "msbuildProject": "../DataContract/DataContract.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "DataContract >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Garul\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\DataContract\\DataContract.csproj": {
+              "projectPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\DataContract\\DataContract.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

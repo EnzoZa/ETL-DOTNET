@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataContract
 {
-    public class IStudent
+    public class Student
     {
         public int id { get; set; }
         public String name { get; set; }

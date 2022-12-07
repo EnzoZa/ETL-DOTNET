@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Service/1.0.0": {
-        "dependencies": {
-          "DataContract": "1.0.0"
-        },
-        "runtime": {
-          "Service.dll": {}
-        }
-      },
       "DataContract/1.0.0": {
         "runtime": {
           "DataContract.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Service/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "DataContract/1.0.0": {
       "type": "project",
       "serviceable": false,

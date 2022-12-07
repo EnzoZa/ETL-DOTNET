@@ -5,32 +5,38 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Data.Common;
+using DataContract;
 
 namespace Service
 {
     public class CsvServices
     {
-        public List<String> getCSVData()
+        public List<Student> getCSVData()
         {
-            List<String> rows = new List<String>();
-            List<String> cols = new List<String>();
-            List<List<String>> data= new List<List<String>>();
 
+            List<Student> data = new List<Student>();
             string path = "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\data.csv";
             string[] lines = System.IO.File.ReadAllLines(path);
             foreach (string line in lines)
             {
-                rows.Add(line);
-                string[] columns = line.Split(',');
+                string[] columns = line.Split('\n');
                 foreach (string column in columns)
                 {
-                    cols.Add(column);
+
+                    string[] info = column.Split(";");
+                    String i = column;
+                    if (info[0] == "id")
+                    {
+
+                    }
+                    else
+                    {
+                        data.Add(new Student() { id = int.Parse(info[0]), name = info[1], mail = info[2] });
+                    }
+                    Console.WriteLine("yes");
                 }
             }
-
-            data.Add(rows);
-            data.Add(cols);
-            return cols;
+            return data;
         }
     }
 }

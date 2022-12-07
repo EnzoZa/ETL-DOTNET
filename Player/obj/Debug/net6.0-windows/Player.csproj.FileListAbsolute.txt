@@ -18,3 +18,5 @@ C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\obj\Debug\net6.0
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\Service.dll
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\Service.pdb
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\obj\Debug\net6.0-windows\Player.csproj.CopyComplete
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\DataContract.dll
+C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\DataContract.pdb

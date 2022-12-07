@@ -1,3 +1,4 @@
+using DataContract;
 using Service;
 
 namespace Player
@@ -17,9 +18,9 @@ namespace Player
         private void button1_Click(object sender, EventArgs e)
         {
             CsvServices c = new CsvServices();
-            List<string> values = c.getCSVData();
+            List<Student> values = c.getCSVData();
 
-            dataGridView1.DataSource = values.Select(@v => new { @v }).ToList() ;
+            dataGridView1.DataSource = values;
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
