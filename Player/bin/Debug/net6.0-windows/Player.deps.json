@@ -14,7 +14,15 @@
           "Player.dll": {}
         }
       },
+      "DataContract/1.0.0": {
+        "runtime": {
+          "DataContract.dll": {}
+        }
+      },
       "Service/1.0.0": {
+        "dependencies": {
+          "DataContract": "1.0.0"
+        },
         "runtime": {
           "Service.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "Player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataContract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
