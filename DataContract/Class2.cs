@@ -8,6 +8,8 @@ namespace DataContract
 {
     public class IStudent
     {
-        String 
+        public int id { get; set; }
+        public String name { get; set; }
+        public String mail { get; set; }
     }
 }
