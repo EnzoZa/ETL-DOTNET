@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bg8/CMaR5l4YFp1inBlPd3z4veErz3+ujNeQvow971njyywA25VaJCGyiSevbUG1MI6mZbpj+XXahwPGDOa4hQ==",
+  "dgSpecHash": "aNYQouSBdpzGXWdexpqOIoD+lw8/rlL1P4FosYbBVKVLe15k2+8kBX8pAYhhdAwSIepvnNR74pQy1ZQy20YtsQ==",
   "success": true,
-  "projectFilePath": "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\Player.csproj",
+  "projectFilePath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
