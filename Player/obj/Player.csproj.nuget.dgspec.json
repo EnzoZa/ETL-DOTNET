@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\Player.csproj": {}
+    "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Player\\Player.csproj": {}
   },
   "projects": {
-    "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\Player.csproj": {
+    "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Player\\Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\Player.csproj",
+        "projectUniqueName": "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Player\\Player.csproj",
         "projectName": "Player",
-        "projectPath": "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\Player.csproj",
-        "packagesPath": "C:\\Users\\Enzo Zampaglione\\.nuget\\packages\\",
-        "outputPath": "D:\\Bureau\\COURS\\Cours_M2\\MicroService\\Projet_cours_2\\WebAPI\\ETL\\ETL-DOTNET\\Player\\obj\\",
+        "projectPath": "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Player\\Player.csproj",
+        "packagesPath": "C:\\Users\\Etudiant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Etudiant\\Documents\\GitHub\\ETL-DOTNET\\Player\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Enzo Zampaglione\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Etudiant\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
