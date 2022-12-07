@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Player", "Player.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\Service\Service.csproj", "{AD5BE9B3-DA49-4696-9524-3A19011ED3F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlayerFolder", "PlayerFolder", "{D284FBF9-0DCC-47BF-B8EC-413E89F8A34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38359F47-0DEA-46B4-9ABB-16E559FBC8DB} = {D284FBF9-0DCC-47BF-B8EC-413E89F8A34D}
+		{AD5BE9B3-DA49-4696-9524-3A19011ED3F6} = {D284FBF9-0DCC-47BF-B8EC-413E89F8A34D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE820E40-1012-4D92-89B5-435F227AEC4B}
