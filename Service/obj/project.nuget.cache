@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rn+GpT0CTKlC8qVaheF/wGVNV2nmoEqPIl7ZJAsa51RImbaTwV8j849Rt0LrXNQeIsBdP3b/rqUlYVQwyB4Dxw==",
+=======
+  "dgSpecHash": "33Qs0+HpDZZxGkhXbSOHarP234ezF9gX6KX1ttNAeQYqjp7duDdR5Lo89vRJZoGcGGl0ANbPffKoNT/GcJnBIw==",
+>>>>>>> e04c69ffebb2e4c7010b1b394d711b8bfb632490
   "success": true,
-  "projectFilePath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

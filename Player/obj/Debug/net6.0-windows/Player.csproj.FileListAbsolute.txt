@@ -18,5 +18,30 @@ C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\obj\Debug\net6.0
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\Service.dll
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\Service.pdb
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\obj\Debug\net6.0-windows\Player.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\DataContract.dll
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\Player\bin\Debug\net6.0-windows\DataContract.pdb
+=======
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Player.exe
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Player.deps.json
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Player.runtimeconfig.json
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Player.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Player.pdb
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Service.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\Service.pdb
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.csproj.AssemblyReference.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.Form1.resources
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.csproj.GenerateResource.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.AssemblyInfoInputs.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.AssemblyInfo.cs
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.csproj.CoreCompileInputs.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.csproj.CopyComplete
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\refint\Player.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.pdb
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\Player.genruntimeconfig.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\obj\Debug\net6.0-windows\ref\Player.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\DataContract.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\Player\bin\Debug\net6.0-windows\DataContract.pdb
+>>>>>>> e04c69ffebb2e4c7010b1b394d711b8bfb632490

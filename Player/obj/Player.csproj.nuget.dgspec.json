@@ -1,9 +1,10 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\Player.csproj": {}
+    "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\DataContract\\DataContract.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -65,86 +66,22 @@
       }
     },
     "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\Player.csproj": {
+=======
+    "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj": {
+>>>>>>> e04c69ffebb2e4c7010b1b394d711b8bfb632490
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\Player.csproj",
-        "projectName": "Player",
-        "projectPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\Player.csproj",
-        "packagesPath": "C:\\Users\\Garul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\obj\\",
+        "projectUniqueName": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj",
+        "projectName": "DataContract",
+        "projectPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj",
+        "packagesPath": "C:\\Users\\20210792\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0-windows"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
-            "projectReferences": {
-              "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj",
-        "projectName": "Service",
-        "projectPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\Garul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Service\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Garul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\20210792\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -153,7 +90,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -181,8 +117,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -191,7 +126,134 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj",
+        "projectName": "Player",
+        "projectPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj",
+        "packagesPath": "C:\\Users\\20210792\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\20210792\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\20210792\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\20210792\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj": {
+                "projectPath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

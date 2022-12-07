@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.deps.json
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.dll
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\bin\Debug\net6.0\DataContract.pdb
@@ -10,3 +11,17 @@ C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\refint\DataContract.dll
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\DataContract.pdb
 C:\Users\Garul\Documents\code\projet_collin\notre_projet\DataContract\obj\Debug\net6.0\ref\DataContract.dll
+=======
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.csproj.AssemblyReference.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.AssemblyInfo.cs
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\20210792\source\repos\ETL-DOTNET\DataContract\bin\Debug\net6.0\DataContract.deps.json
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\bin\Debug\net6.0\DataContract.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\bin\Debug\net6.0\DataContract.pdb
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\refint\DataContract.dll
+C:\Users\20210792\Source\Repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\DataContract.pdb
+C:\Users\20210792\source\repos\ETL-DOTNET\DataContract\obj\Debug\net6.0\ref\DataContract.dll
+>>>>>>> e04c69ffebb2e4c7010b1b394d711b8bfb632490

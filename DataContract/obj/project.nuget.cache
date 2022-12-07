@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CwMYDFmnNvwhRJ8OowZRGHQXwzcIoxzhPlKROWNqvmnlVq5dMJgdpfJ/4ruU3dQ8hthIFglCilrk1bkbHr+XmQ==",
+  "dgSpecHash": "xUnbzEv+QzjLZEc3hXM2JsXrrMWVWpAdWZlRR2OrxxtHGRr50Ri+NSH6wwVCu8c3zpDhUvuSm728Sj3OCk2G/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\DataContract\\DataContract.csproj",
+  "projectFilePath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\DataContract\\DataContract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

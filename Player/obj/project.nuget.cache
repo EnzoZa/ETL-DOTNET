@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1Nlc+jaME+BtIcFzZynNWjgRlOFgemw/mI1WZweOrUaVeRZbkypELecH8fxiPhbchjCjJiUOJjTZd7lS7nBiXQ==",
+=======
+  "dgSpecHash": "Pwj6PJ7L6R6gOG+D4Gm8D58QRGWoPArC8cGIDP/UpBSa5s48CpvyfDjpz09c3KsTmvXDpH0AIhRjw65X+qmLcA==",
+>>>>>>> e04c69ffebb2e4c7010b1b394d711b8bfb632490
   "success": true,
-  "projectFilePath": "C:\\Users\\Garul\\Documents\\code\\projet_collin\\notre_projet\\Player\\Player.csproj",
+  "projectFilePath": "C:\\Users\\20210792\\Source\\Repos\\ETL-DOTNET\\Player\\Player.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
